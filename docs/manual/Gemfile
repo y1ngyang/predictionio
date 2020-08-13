@@ -17,7 +17,7 @@
 
 source 'https://rubygems.org'
 
-gem 'middleman', '~> 3.3.10'
+gem 'middleman', '~> 4.3.8'
 gem 'middleman-livereload', '~> 3.4.2'
 gem 'middleman-autoprefixer'
 gem 'middleman-minify-html'
