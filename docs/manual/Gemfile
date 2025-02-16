@@ -17,12 +17,12 @@
 
 source 'https://rubygems.org'
 
-gem 'middleman', '~> 4.4.0'
+gem 'middleman', '~> 4.0.0'
 gem 'middleman-livereload', '~> 3.4.2'
-gem 'middleman-autoprefixer'
+gem 'middleman-autoprefixer', '>= 3.0.0'
 gem 'middleman-minify-html'
 gem 'middleman-syntax', '>= 2.1.0'
-gem 'middleman-s3_sync'
+gem 'middleman-s3_sync', '>= 4.0.1'
 gem 'middleman-search_engine_sitemap', '>= 1.4.0'
 
 gem 'slim'
